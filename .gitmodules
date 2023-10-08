@@ -1,0 +1,12 @@
+[submodule "external/portaudio"]
+	path = external/portaudio
+	url = https://github.com/PortAudio/portaudio.git
+[submodule "external/GLFW"]
+	path = external/GLFW
+	url = https://github.com/glfw/glfw.git
+[submodule "assets/flappy-bird"]
+	path = assets/flappy-bird
+	url = https://github.com/samuelcust/flappy-bird-assets.git
+[submodule "external/stb"]
+	path = external/stb
+	url = https://github.com/franko/stb_image.git
